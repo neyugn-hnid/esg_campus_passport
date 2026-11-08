@@ -1,0 +1,35 @@
+# Firebase
+**/firebase-debug.log
+**/firebase-debug.*.log
+.firebase/
+.firebaserc
+firebase.json
+
+# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+.idea/
+.vscode/
+*.lock
+
+# Android
+android/app/google-services.json
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/GoogleService-Info.plist
+ios/Pods/
+ios/.symlinks/
+
+# macOS
+macos/GoogleService-Info.plist
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
