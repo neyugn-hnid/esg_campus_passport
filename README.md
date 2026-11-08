@@ -1,1 +1,0 @@
-# esg_campus_passport
